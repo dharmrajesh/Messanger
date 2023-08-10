@@ -1,2 +1,4 @@
 1. Create Account
 2. Create Login Page
+3. Show every one the seeing feature
+4. Hidding the seeing feature to every one
