@@ -4,3 +4,4 @@
 4. Hidding the seeing feature to every one
 5. Add Video Feature
 6. Add Audio Feature
+7. Compose mail added
