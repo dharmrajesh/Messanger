@@ -5,3 +5,4 @@
 5. Add Video Feature
 6. Add Audio Feature
 7. Compose mail added
+8. New Status is added for your project
