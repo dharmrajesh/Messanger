@@ -8,4 +8,6 @@
 8. New Status is added for your project
 9. The feature added thats is we can attach photos, videos, documents(notepad, MSOffice,pdf file formate)
 10.your new feature is added
+11. Can make call video and audio call and also can take picture
+
 
