@@ -7,4 +7,3 @@
 7. Compose mail added
 8. New Status is added for your project
 9. The feature added thats is we can attach photos, videos, documents(notepad, MSOffice,pdf file formate)
-
